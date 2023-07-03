@@ -1,0 +1,6 @@
+.husky
+.next
+node_modules
+.tina/__generated__
+.github
+src/shopify/shopify.ts
